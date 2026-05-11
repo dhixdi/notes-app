@@ -1,0 +1,7 @@
+runtime: nodejs20
+
+env_variables:
+  DB_HOST: "34.172.113.167"
+  DB_USER: "admin"
+  DB_PASSWORD: "mypassword"
+  DB_NAME: "notes_123230166"
